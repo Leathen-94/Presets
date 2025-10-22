@@ -50,7 +50,6 @@ Note : Talos / Slander / Cerberus targeted player attacks will not show for addi
 ### 18th October 2025
 + Refreshed 51-99 'One-Shot' with my latest local copy
 + Changed the 'lightning' front/rear attack on the 80 boss to be a different color
-+ Added the missing telegraphs for Talos/Slander/Cerberus which are based off the target's possition at the time of casing (NOTE: These will only show for a SINGLE mob at a time, if you are engaged with multiple of the same type, at the same time, others will not be drawn correctly)
   
 ### 17th October 2025
 + Adjusted 81-89 Cerberus Lightning Bolt
