@@ -2,9 +2,7 @@
 
 Use the existing presets from the main `repo` [Here](https://github.com/PunishXIV/Splatoon/tree/main/Presets) (or) by `ToolerOfLight` [Here](https://github.com/ToolerofLight/myfiles/blob/main/README.md)
 
-Replacement presets for the "intermission" stage, this will show the Tank cleaves as normal, but also show RED circles for spread and YELLOW for stacking.
-
-Also places possitional markers on the floor for the "static" varient of this fight, and creates a purple teather to more easily track the Ghost Train.
+Replacement presets for the "intermission" stage, this will show the Tank cleaves as normal, but also show RED circles for spread and YELLOW for stacking. Also places possitional markers on the floor for the "static" varient of this fight, and creates a purple teather to more easily track the Ghost Train.
 
 # Intermission - "Static" varient
 ```
