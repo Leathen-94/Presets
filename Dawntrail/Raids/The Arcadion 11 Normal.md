@@ -19,5 +19,7 @@ Presets based on the initial set by `ToolerOfLight` [Here](https://github.com/To
 
 ### Updates
 Added missing platform destruction telegraph
+
 Added axe/scythe/sword combo telegraph (first two sets are, unfortunatly, drawn at the same time - WIP)
+
 Added initial knockback indicator when the platform is first split
