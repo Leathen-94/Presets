@@ -1,0 +1,23 @@
+# EX6 - Hell on Rails
+
+Use the existing presets from the main 'repo' [Here](https://github.com/PunishXIV/Splatoon/tree/main/Presets) / by `ToolerOfLight` [Here](https://github.com/ToolerofLight/myfiles/blob/main/README.md)
+
+Replacement presets for the "intermission" stage, this will show the Tank cleaves as normal, but also show RED circles for spread and YELLOW for stacking.
+
+Also places possitional markers on the floor for the "static" varient of this fight, and creates a purple teather to more easily track the Ghost Train.
+
+# Intermission - "Static" varient
+```
+~Lv2~{"Name":"Intermission - Tank Cleaves","Group":"EX6 - Hell on Rails","ZoneLockH":[1308],"ElementsL":[{"Name":"Trigger","type":1,"refActorComparisonType":7,"refActorVFXPath":"vfx/lockon/eff/tank_laser_7sec_lockon01p.avfx","refActorVFXMin":4000,"refActorVFXMax":7000,"Conditional":true,"Nodraw":true},{"Name":"T1","type":4,"radius":50.0,"coneAngleMin":-18,"coneAngleMax":18,"fillIntensity":0.2,"thicc":3.0,"refActorNPCNameID":14406,"refActorComparisonType":6,"includeHitbox":true,"includeRotation":true,"onlyVisible":true,"FaceMe":true,"DistanceMax":13.2,"faceplayer":"<t1>","FillStep":4.0},{"Name":"T2","type":4,"radius":50.0,"coneAngleMin":-18,"coneAngleMax":18,"fillIntensity":0.2,"thicc":3.0,"refActorNPCNameID":14406,"refActorComparisonType":6,"includeHitbox":true,"includeRotation":true,"onlyVisible":true,"FaceMe":true,"DistanceMax":13.2,"faceplayer":"<t2>","FillStep":4.0}]}
+~Lv2~{"Name":"Intermission - Light Parties","Group":"EX6 - Hell on Rails","ZoneLockH":[1308],"ElementsL":[{"Name":"Trigger","type":1,"refActorComparisonType":7,"refActorVFXPath":"vfx/lockon/eff/m0969_mrt_sht_c0k2.avfx","refActorVFXMax":7000,"Conditional":true,"Nodraw":true},{"Name":"Light Parties Text","type":1,"radius":0.0,"fillIntensity":0.5,"overlayBGColor":4278190080,"overlayTextColor":4278255612,"overlayVOffset":2.0,"overlayFScale":3.0,"thicc":0.0,"overlayText":"Stack","overlayTextIntl":{"Jp":"頭割り"},"refActorType":1},{"Name":"Player Circles (Healers)","type":1,"radius":5.0,"color":4278255612,"Filled":false,"fillIntensity":0.3,"thicc":5.0,"refActorPlaceholder":["<h1>","<h2>"],"refActorComparisonType":5,"includeRotation":true,"FaceMe":true}]}
+~Lv2~{"Name":"Intermission - Spread","Group":"EX6 - Hell on Rails","ZoneLockH":[1308],"ElementsL":[{"Name":"Trigger","type":1,"refActorComparisonType":7,"refActorVFXPath":"vfx/lockon/eff/m0969_mrt_sht_c1k2.avfx","refActorVFXMax":7000,"Conditional":true,"Nodraw":true},{"Name":"Spread Text","type":1,"radius":0.0,"fillIntensity":0.5,"overlayBGColor":4278190080,"overlayTextColor":3355443455,"overlayVOffset":2.0,"overlayFScale":3.0,"thicc":0.0,"overlayText":"Spread","refActorType":1},{"Name":"Player Circles (All)","type":1,"radius":5.0,"fillIntensity":0.1,"refActorComparisonType":6,"includeRotation":true,"FaceMe":true,"ObjectKinds":[1]}]}
+~Lv2~{"Name":"Intermission - Ghost Train","Group":"EX6 - Hell on Rails","ZoneLockH":[1308],"ElementsL":[{"Name":"Aether","type":1,"radius":0.0,"fillIntensity":0.5,"thicc":0.0,"refActorNPCNameID":14287,"refActorComparisonType":6,"IsCapturing":true,"Nodraw":true},{"Name":"Ghost Train","type":3,"refX":0.1,"refY":12.0,"offY":12.0,"radius":13.0,"color":3369795839,"fillIntensity":0.1,"thicc":0.0,"refActorDataID":19329,"refActorComparisonType":3,"includeRotation":true,"tether":true,"FaceMe":true,"faceplayer":"<element:Aether>","FillStep":0.1,"RenderEngineKind":1}]}
+~Lv2~{"Name":"Intermission - Static","Group":"EX6 - Hell on Rails","ZoneLockH":[1308],"ElementsL":[{"Name":"H1","refX":-400.0,"refY":-405.0,"refZ":-900.0,"radius":0.0,"color":3355508480,"fillIntensity":0.5,"overlayBGColor":1879113472,"overlayTextColor":3355443200,"overlayText":"H1"},{"Name":"H2","refX":-400.0,"refY":-395.0,"refZ":-900.0,"radius":0.0,"color":3355508480,"fillIntensity":0.5,"overlayBGColor":1879113472,"overlayTextColor":3355443200,"overlayText":"H2"},{"Name":"D1","refX":-405.0,"refY":-400.0,"refZ":-900.0,"radius":0.0,"fillIntensity":0.5,"overlayBGColor":1879048447,"overlayText":"D1"},{"Name":"D2","refX":-395.0,"refY":-400.0,"refZ":-900.0,"radius":0.0,"fillIntensity":0.0,"overlayBGColor":1879048447,"overlayText":"D2"}]}
+```
+
+# Car 5
+Makes the lightening bolt that moves around Car 5 easier to see, this is not a solve for "Arcane Revelation" please use the offical script for that.
+```
+~Lv2~{"Name":"Arcane Revelation - Target Highlight","Group":"EX6 - Hell on Rails","ZoneLockH":[339,1308],"ElementsL":[{"Name":"Small Target Circle","type":1,"radius":2.0,"color":3372155106,"fillIntensity":0.5,"thicc":5.0,"refActorDataID":18998,"refActorComparisonType":3}]}
+```
+
