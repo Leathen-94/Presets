@@ -7,7 +7,7 @@ The code below are addiitional elements, that I am finding usefull, or for later
 
 Additions 6th Jan 15:50
 - Ultrasonic Spreads (Shows Red/Green/Blue cones for roles)
-- Sanguine Scratch (Donue / Circle) thanks 'Tetora'
+- Sanguine Scratch (Donut / Circle) thanks 'Tetora'
 
 Initial Post
 - Vamp Stomp Debuff - Proximity circle so you can keep awway from others
