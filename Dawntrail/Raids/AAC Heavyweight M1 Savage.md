@@ -5,11 +5,14 @@ These are the presets I've been running so far, cleaned up to be ready for Week 
 These are **NOT** all my own work. Thanks to all contributions in the [Punish Discord](https://discord.com/invite/Zzrcc8kmvy) and for the the initial JPN presets [ToolerOfLight](https://github.com/ToolerofLight)
 
 
-# Notes 15th Jan:
+# Notes (15th Jan)
 
 **"Ultrasonic Amp (Tanks) & Ultrasonic Spread(Role)** : Will correctly only show now on 'Alive' players
+
 **Sanguine Scratch** : Replaced the cone elements, with yellow guidelines (ty Limiana)
+
 **Sanguine Scratch** : Added indication of the Bat's direction, althogh a little late
+
 
 # Scripts Used (From the official splatoon repo)
 
