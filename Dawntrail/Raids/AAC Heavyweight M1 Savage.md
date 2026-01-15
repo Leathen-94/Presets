@@ -11,7 +11,7 @@ These are **NOT** all my own work. Thanks to all contributions in the [Punish Di
 
 **Sanguine Scratch** : Replaced the cone elements, with yellow guidelines (ty Limiana)
 
-**Sanguine Scratch** : Added indication of the Bat's direction, althogh a little late
+**Sanguine Scratch** : Added indication of the Bat's direction, althuogh a little late
 
 
 # Scripts Used (From the official splatoon repo)
