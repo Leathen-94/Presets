@@ -12,7 +12,7 @@ These are **NOT** all my own work. Thanks to all contributions in the [Punish Di
 
 # Notes (15th Jan)
 
-**"Ultrasonic Amp (Tanks) & Ultrasonic Spread(Role)** : Will correctly only show now on 'Alive' players
+**Ultrasonic Amp (Tanks) & Ultrasonic Spread(Role)** : Will correctly only show now on 'Alive' players
 
 **Sanguine Scratch** : Replaced the cone elements, with yellow guidelines (ty Limiana)
 
