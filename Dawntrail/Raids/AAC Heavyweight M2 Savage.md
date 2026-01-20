@@ -1,6 +1,6 @@
  # AAC Heavyweight M2 Savage (Week 3+)
 
-These are the presets I've been running so far, cleaned up to be ready for Week 2.
+These are the presets I've been running so far, cleaned up to be ready for Week 3.
 
 These are **NOT** all my own work. Thanks to all contributions in the [Punish Discord](https://discord.com/invite/Zzrcc8kmvy) and for the the initial JPN presets [ToolerOfLight](https://github.com/ToolerofLight)
 
